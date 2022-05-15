@@ -7,6 +7,7 @@ U projektu je korišćena mikroservisna arhitektura. Sastoji se od Korisničkog 
 <h2>Tehnologije korišćene na projektu</h2>
 
 Projekat je rađen u Javi, korišćeni su SPRING i HIBERNATE
+
 Build alat - MAVEN
 
 
